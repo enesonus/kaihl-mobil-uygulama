@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627150873266",
+    "project_id": "kaihl-flutter-ders",
+    "storage_bucket": "kaihl-flutter-ders.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627150873266:android:43f9815ade38164e535fab",
+        "android_client_info": {
+          "package_name": "com.kaihl.chat_app_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ47u5jRm01keDXAK2dclC4c64gNAKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627150873266:android:b78b3cd7aa921913535fab",
+        "android_client_info": {
+          "package_name": "com.kaihl.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ47u5jRm01keDXAK2dclC4c64gNAKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
